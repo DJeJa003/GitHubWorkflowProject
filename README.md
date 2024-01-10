@@ -1,1 +1,1 @@
-![GitHubWorkflowProject](https://github.com/DJeJa003/GitHubWorkflowProject/actions/workflows/GitHubWorkflowProject/badge.svg)
+![GitHubWorkflowProject](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
