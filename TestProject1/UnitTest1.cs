@@ -6,7 +6,7 @@ namespace TestProject1
         public void Test1()
         {
             //?
-            Assert.True(false);
+            Assert.False(true);
         }
     }
 }
